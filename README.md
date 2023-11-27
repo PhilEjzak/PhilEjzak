@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PhilEjzak
+- 👀 I work at a winery and distillery
+- 🌱 I’m currently learning raspberry pi and python automation
+- 📫 How to reach me ejzakp@gmail.com
